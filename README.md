@@ -12,6 +12,5 @@
 ```python
 python server.py
 ```
-
 ----
 浏览器打开多个网页 http://127.0.0.1:8080/
